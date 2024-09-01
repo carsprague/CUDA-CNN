@@ -1,0 +1,168 @@
+-- Tile = 1
+
+real	1m40.305s
+user	0m0.012s
+sys	0m0.001s
+t data...Done
+Loading model...Done
+Conv-GPU==
+Layer Time: 2369.47 ms
+Op Time: 2199.66 ms
+Conv-GPU==
+Layer Time: 5633.7 ms
+Op Time: 5499.79 ms
+
+Test Accuracy: 0.8714
+
+-- Tile = 2
+
+real	1m33.126s
+user	0m0.007s
+sys	0m0.007s
+t data...Done
+Loading model...Done
+Conv-GPU==
+Layer Time: 599.871 ms
+Op Time: 379.708 ms
+Conv-GPU==
+Layer Time: 934.36 ms
+Op Time: 790.418 ms
+
+Test Accuracy: 0.8714
+
+
+-- Tile = 4
+
+real	1m32.176s
+user	0m0.009s
+sys	0m0.004s
+t data...Done
+Loading model...Done
+Conv-GPU==
+Layer Time: 275.804 ms
+Op Time: 94.0602 ms
+Conv-GPU==
+Layer Time: 296.006 ms
+Op Time: 157.829 ms
+
+Test Accuracy: 0.8714
+
+
+-- Tile = 8
+
+real	1m30.450s
+user	0m0.008s
+sys	0m0.005s
+t data...Done
+Loading model...Done
+Conv-GPU==
+Layer Time: 282.426 ms
+Op Time: 54.8272 ms
+Conv-GPU==
+Layer Time: 223.152 ms
+Op Time: 53.0953 ms
+
+Test Accuracy: 0.8714
+
+
+-- Tile = 12
+
+real	1m30.633s
+user	0m0.010s
+sys	0m0.004s
+t data...Done
+Loading model...Done
+Conv-GPU==
+Layer Time: 262.899 ms
+Op Time: 63.3674 ms
+Conv-GPU==
+Layer Time: 223.148 ms
+Op Time: 66.5534 ms
+
+Test Accuracy: 0.8714
+
+
+-- Tile = 16
+
+real	1m32.303s
+user	0m0.006s
+sys	0m0.010s
+t data...Done
+Loading model...Done
+Conv-GPU==
+Layer Time: 361.241 ms
+Op Time: 70.2835 ms
+Conv-GPU==
+Layer Time: 292.733 ms
+Op Time: 47.7727 ms
+
+Test Accuracy: 0.8714
+
+
+-- Tile = 20
+
+real	1m32.020s
+user	0m0.009s
+sys	0m0.005s
+t data...Done
+Loading model...Done
+Conv-GPU==
+Layer Time: 358.444 ms
+Op Time: 83.3824 ms
+Conv-GPU==
+Layer Time: 234.879 ms
+Op Time: 55.9299 ms
+
+Test Accuracy: 0.8714
+
+
+-- Tile = 24
+
+real	1m34.019s
+user	0m0.008s
+sys	0m0.006s
+t data...Done
+Loading model...Done
+Conv-GPU==
+Layer Time: 426.155 ms
+Op Time: 106.885 ms
+Conv-GPU==
+Layer Time: 283.482 ms
+Op Time: 65.8024 ms
+
+Test Accuracy: 0.8714
+
+
+-- Tile = 28
+
+real	1m34.264s
+user	0m0.004s
+sys	0m0.011s
+t data...Done
+Loading model...Done
+Conv-GPU==
+Layer Time: 609.654 ms
+Op Time: 122.527 ms
+Conv-GPU==
+Layer Time: 455.211 ms
+Op Time: 79.9578 ms
+
+Test Accuracy: 0.8714
+
+
+-- Tile = 32
+
+real	1m32.070s
+user	0m0.007s
+sys	0m0.008s
+t data...Done
+Loading model...Done
+Conv-GPU==
+Layer Time: 413.033 ms
+Op Time: 132.103 ms
+Conv-GPU==
+Layer Time: 304.741 ms
+Op Time: 86.7287 ms
+
+Test Accuracy: 0.8714
+
